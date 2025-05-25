@@ -1,6 +1,6 @@
 ![logo](https://github.com/ayansss18/ayansss18/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Ayan Sardar</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">An Aspiring Data Scientist | Data Analyst from India</h3>
 <img align="right" alt="Data Analyst" width="400" src="https://intellipaat.com/blog/wp-content/uploads/2015/07/Big-Data.gif">
 
 - 🌱 I’m currently learning **ML, Data Analytics tools.**
